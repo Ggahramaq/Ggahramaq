@@ -64,4 +64,7 @@
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Goodbye+👋+!;&center=true&size=30">
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Goodbye+👋+!;&center=true&size=30">
+</h4>
+
