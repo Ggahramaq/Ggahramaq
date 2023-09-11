@@ -32,5 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggahramaq&" alt="ggahramaq" /></p>
 
-
-![snake gif](https://github.com/ggahramqaq/ggahramaq/blob/output/github-contribution-grid-snake.gif)
