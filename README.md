@@ -1,5 +1,6 @@
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Im+Ggahramaq!;&center=true&size=30">
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Im+Ggahramaq!;&center=true&size=30">
+</h3>
 <h3 align="center">A passionate web developer from Azerbaijan</h3>
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
